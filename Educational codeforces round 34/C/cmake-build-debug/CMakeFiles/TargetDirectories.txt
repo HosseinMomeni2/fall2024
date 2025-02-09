@@ -1,0 +1,3 @@
+D:/contests/fall1402/Educational codeforces round 34/C/cmake-build-debug/CMakeFiles/C.dir
+D:/contests/fall1402/Educational codeforces round 34/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/contests/fall1402/Educational codeforces round 34/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

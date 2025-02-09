@@ -1,0 +1,3 @@
+D:/contests/fall1402/training/A TRUE Battle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/contests/fall1402/training/A TRUE Battle/cmake-build-debug/CMakeFiles/A_TRUE_Battle.dir
+D:/contests/fall1402/training/A TRUE Battle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/contests/fall1402/training/Startup/cmake-build-debug/CMakeFiles/Startup.dir
+D:/contests/fall1402/training/Startup/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/contests/fall1402/training/Startup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
